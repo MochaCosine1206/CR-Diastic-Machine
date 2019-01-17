@@ -1,0 +1,23 @@
+{
+  "name": "cr-diastic-machine",
+  "version": "1.0.0",
+  "description": "more practice with text",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MochaCosine1206/CR-Diastic-Machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MochaCosine1206/CR-Diastic-Machine/issues"
+  },
+  "homepage": "https://github.com/MochaCosine1206/CR-Diastic-Machine#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
